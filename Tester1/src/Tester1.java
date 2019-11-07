@@ -16,6 +16,7 @@ public class Tester1
       testDecimalFormat dFormat = new testDecimalFormat();
       //dFormat.showDouble();
       dFormat.showRandom();
+      System.out.println("Github testing");
       System.out.println("Done!");
    }
 }
